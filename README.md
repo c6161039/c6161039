@@ -2,8 +2,15 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=c6161039&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-<div>
 <p>要不先睡觉吧</p>
+
+``` json
+  "id":"Longteng LongTTT",
+  "age":2004,
+  "common":"Vue",
+  "wife":"Cyan_drip"
+```
+
 <p>写前端的,目前正在向后端靠拢</p>
 <p>对象是Malody大王</p>
 
@@ -17,7 +24,6 @@
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31bwumgzm7gamifpxwk2he4v5jzu&count=1)
 
-</div>
 
 <hr>
 
