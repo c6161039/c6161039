@@ -23,6 +23,7 @@
 <hr>
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31bwumgzm7gamifpxwk2he4v5jzu&count=1)
+<img align="right" src="https://www.animatedimages.org/data/media/140/animated-love-image-0505.gif" width="100" height="100"></img>
 
 <hr>
 
