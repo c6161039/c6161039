@@ -1,8 +1,9 @@
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+
 ## 你好 👋  我是龙腾 🐾
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=c6161039&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-<p>要不先睡觉吧</p>
 
 ``` json
   "id":"Longteng LongTTT",
@@ -12,7 +13,7 @@
   "common":"Vue"
 ```
 
-<p>写前端的,目前正在向往全栈进发</p>
+<p><span>要不先睡觉吧</span> 写前端的,目前正在向往全栈进发  </p> 
 
 <hr>
 
@@ -23,7 +24,7 @@
 <hr>
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31bwumgzm7gamifpxwk2he4v5jzu&count=1)
-<img align="right" src="https://www.animatedimages.org/data/media/140/animated-love-image-0505.gif" width="100" height="100"></img>
+<img align="right" src="https://s2.loli.net/2024/10/29/2zOUWlRai95gvdM.gif" width="100" height="100"></img>
 
 <hr>
 
